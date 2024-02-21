@@ -1,0 +1,64 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "name": "Sophia Reynolds",
+        "avatar": "https://www.svgrepo.com/show/9682/avatar.svg",
+        "rol": "Developer"
+      },
+      {
+        "id": 2,
+        "name": "Liam Thompson",
+        "avatar": "https://www.svgrepo.com/show/17322/avatar.svg",
+        "rol": "Designer"
+      },
+      {
+        "id": 3,
+        "name": "Ava Parker",
+        "avatar": "https://www.svgrepo.com/show/17344/avatar.svg",
+        "rol": "Manager"
+      },
+      {
+        "id": 4,
+        "name": "Jackson Clark",
+        "avatar": "https://www.svgrepo.com/show/17468/avatar.svg",
+        "rol": "Analyst"
+      },
+      {
+        "id": 5,
+        "name": "Olivia Anderson",
+        "avatar": "https://www.svgrepo.com/show/29799/avatar.svg",
+        "rol": "Tester"
+      },
+      {
+        "id": 6,
+        "name": "Mason Hayes",
+        "avatar": "https://www.svgrepo.com/show/65453/avatar.svg",
+        "rol": "Product Owner"
+      },
+      {
+        "id": 7,
+        "name": "Noah Harris",
+        "avatar": "https://www.svgrepo.com/show/30132/avatar.svg",
+        "rol": "Scrum Master"
+      },
+      {
+        "id": 8,
+        "name": "Sarah Mitchell",
+        "avatar": "https://www.svgrepo.com/show/57549/avatar.svg",
+        "rol": "Architect"
+      },
+      {
+        "id": 9,
+        "name": "Ethan Turner",
+        "avatar": "https://www.svgrepo.com/show/83466/avatar.svg",
+        "rol": "DevOps Engineer"
+      },
+      {
+        "id": 10,
+        "name": "Emma Foster",
+        "avatar": "https://www.svgrepo.com/show/106861/avatar.svg",
+        "rol": "UX Designer"
+      }
+    ]
+  }
