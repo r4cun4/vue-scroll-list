@@ -6,7 +6,7 @@ import { items } from '@/assets/data.json'
 </script>
 
 <template>
-  <main class="flex flex-row items-center justify-center bg-sky-950 w-screen h-screen gap-4">
+  <main class="flex flex-row items-center justify-center w-screen h-screen gap-20 bg-sky-900">
     <ScrollList :item="items" />
     <Form :item="items" />
   </main>

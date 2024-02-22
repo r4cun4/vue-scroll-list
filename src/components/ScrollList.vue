@@ -10,7 +10,7 @@ const props = defineProps({
 
 </script>
 <template>
-    <div class="scroll-container flex flex-col items-center overflow-hidden overflow-y-auto gap-4">
+    <div class="scroll-container flex flex-col items-center overflow-hidden overflow-y-auto gap-4 bg-sky-950 w-96 shadow-md rounded p-1">
         <ItemList v-for="item in props.item" :key="item.id" 
             :item="item"
         />
@@ -19,8 +19,7 @@ const props = defineProps({
 
 <style>
 .scroll-container {
-    height: 56rem;
-    width: 8rem;
+    height: 47rem;
 }
 
 </style>
