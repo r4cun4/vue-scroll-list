@@ -1,6 +1,7 @@
 # vue-scroll-list
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple list of cards
+It has an automated scroll when the user fills the input with a number
 
 ## Recommended IDE Setup
 
