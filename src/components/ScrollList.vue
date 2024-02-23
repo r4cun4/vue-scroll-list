@@ -45,8 +45,17 @@ watchEffect(() => {
 </template>
 
 <style>
-.scroll-container {
-    height: 47rem;
+
+@media screen and (min-width:320px) {
+    .scroll-container {
+        width: 16rem;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .scroll-container {
+        height: 47rem;
+    }
 }
 
 </style>

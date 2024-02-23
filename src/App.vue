@@ -15,9 +15,25 @@ const handleFormSubmit = (input) => {
 </script>
 
 <template>
-  <main class="flex flex-row items-center justify-center w-screen h-screen gap-20 bg-sky-900">
+  <main class="flex items-center justify-center w-screen h-screen gap-20 bg-sky-900">
     <ScrollList :item="items" :input="inputValue" />
     <Form :item="items" @submit="handleFormSubmit" />
   </main>
   
 </template>
+
+<style>
+
+@media screen and (min-width:320px) {
+  main {
+    flex-direction: column;
+  }
+}
+
+@media screen and (min-width:768px) {
+  main {
+    flex-direction: row;
+  }
+}
+
+</style>
