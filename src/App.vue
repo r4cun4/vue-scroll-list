@@ -16,7 +16,7 @@ const handleFormSubmit = (input) => {
 
 <template>
   <main class="flex items-center justify-center w-screen h-screen gap-20 bg-sky-900">
-    <ScrollList :item="items" :input="inputValue" />
+    <ScrollList :item="items" :input="inputValue" :visibleItems="5" />
     <Form :item="items" @submit="handleFormSubmit" />
   </main>
   
