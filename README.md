@@ -28,3 +28,6 @@ npm run dev
 ```sh
 npm run build
 ```
+
+![image](https://github.com/r4cun4/vue-scroll-list/assets/77390217/6cd1e7c6-bc23-4619-846a-412ae867a433)
+
